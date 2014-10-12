@@ -6,8 +6,8 @@
 </description>
     <link>http://stanwu.ca/</link>
     <atom:link href="http://stanwu.ca/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 12 Oct 2014 13:25:21 +0800</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2014 13:25:21 +0800</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2014 13:26:51 +0800</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2014 13:26:51 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -62,8 +62,8 @@
         <description>&lt;h1 id=&quot;html-&quot;&gt;一個比 HTML 更簡單的語法&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;為什麼 Word 排版出來總是一直失控 !? 難道不能更簡單的方法嗎? 如果您心中一直有這個疑問.&lt;/li&gt;
-  &lt;li&gt;如果排版可以跟寫程式一樣精確就好了, 如果您每次用滑鼠排版的時候都一直有這個想法.&lt;/li&gt;
+  &lt;li&gt;為什麼 Word 排版出來總是一直失控 !? 難道不能更簡單的方法嗎? 如果您心中一直有這個疑問&lt;/li&gt;
+  &lt;li&gt;如果排版可以跟寫程式一樣精確就好了, 當您每次用滑鼠排版的時候都一直有這個想法&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;那麼 &lt;a href=&quot;http://guides.github.com/features/mastering-markdown&quot;&gt;Markdown&lt;/a&gt; 將可能是您終極的解決方案.&lt;/p&gt;
