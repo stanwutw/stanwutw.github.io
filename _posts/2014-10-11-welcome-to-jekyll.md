@@ -5,7 +5,7 @@ date:   2014-10-11 21:20:18
 categories: jekyll update
 ---
 
-![logo]({{site.img_url}}/assets/logo-2x.png)
+![logo](http://jekyllrb.com/img/logo-2x.png)
 
 # 懶人的最愛
 
