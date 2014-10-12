@@ -4,10 +4,10 @@
     <title>Stan&#39;s IT sharing</title>
     <description>覺得文章有幫助 ? 請不吝嗇加入追蹤筆者的 Github 或是 Twitter  帳號作為獎勵吧 ! 
 </description>
-    <link>http://stanwutw.github.io/</link>
-    <atom:link href="http://stanwutw.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 12 Oct 2014 10:20:15 +0800</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2014 10:20:15 +0800</lastBuildDate>
+    <link>http://stanwu.ca/</link>
+    <atom:link href="http://stanwu.ca/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 12 Oct 2014 10:57:49 +0800</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2014 10:57:49 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sun, 12 Oct 2014 05:20:18 +0800</pubDate>
-        <link>http://stanwutw.github.io/jekyll/update/2014/10/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://stanwutw.github.io/jekyll/update/2014/10/12/welcome-to-jekyll.html</guid>
+        <link>http://stanwu.ca/jekyll/update/2014/10/12/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://stanwu.ca/jekyll/update/2014/10/12/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -60,8 +60,8 @@
 
 </description>
         <pubDate>Sun, 12 Oct 2014 05:20:18 +0800</pubDate>
-        <link>http://stanwutw.github.io/jekyll/update/2014/10/12/test.html</link>
-        <guid isPermaLink="true">http://stanwutw.github.io/jekyll/update/2014/10/12/test.html</guid>
+        <link>http://stanwu.ca/jekyll/update/2014/10/12/test.html</link>
+        <guid isPermaLink="true">http://stanwu.ca/jekyll/update/2014/10/12/test.html</guid>
         
         
         <category>jekyll</category>
