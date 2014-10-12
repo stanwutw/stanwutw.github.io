@@ -9,6 +9,9 @@ url: "http://stanwu.ca" # the base hostname & protocol for your site
 twitter_username: stanwu
 github_username:  stanwu
 
+# Images source
+img_url: "http://stanwu.us"
+
 # Build settings
 markdown: kramdown
 
