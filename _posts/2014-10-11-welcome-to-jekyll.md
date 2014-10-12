@@ -1,9 +1,19 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Jekyll 讓開發程式與文件撰寫融合在一起"
 date:   2014-10-11 21:20:18
 categories: jekyll update
 ---
+
+![logo]({{site.img_url}}/assets/logo-2x.png)
+
+# 懶人的最愛
+
+如果您跟我一樣 *不喜歡移動您的雙手, 最好是一直都貼在鍵盤上面動動手指就好* , 
+很少移動游標, 幾乎都是用熱鍵或是CLI命令介面, 那麼我相信您也會愛上[Jekyll][jekyll]
+
+# 如何發佈一個新的文章
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
