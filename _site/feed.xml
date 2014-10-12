@@ -6,12 +6,12 @@
 </description>
     <link>http://stanwu.ca/</link>
     <atom:link href="http://stanwu.ca/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 12 Oct 2014 13:00:47 +0800</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2014 13:00:47 +0800</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2014 13:23:17 +0800</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2014 13:23:17 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Jekyll 讓開發程式與文件撰寫融合在一起</title>
+        <title>Jekyll 讓程式開發與文件撰寫融合在一起</title>
         <description>&lt;p&gt;&lt;img src=&quot;http://jekyllrb.com/img/logo-2x.png&quot; alt=&quot;logo&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;section&quot;&gt;懶人的最愛&lt;/h1&gt;
@@ -19,7 +19,17 @@
 &lt;p&gt;如果您跟我一樣 &lt;em&gt;不喜歡移動您的雙手, 最好是一直都貼在鍵盤上面動動手指就好&lt;/em&gt; , 
 很少移動游標, 幾乎都是用熱鍵或是CLI命令介面, 那麼我相信您也會愛上&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;section-1&quot;&gt;如何發佈一個新的文章&lt;/h1&gt;
+&lt;h1 id=&quot;section-1&quot;&gt;寫文章跟寫程式其實是同一件事情&lt;/h1&gt;
+
+&lt;p&gt;寫文章其實跟寫程式基本上是同一件事情, 跟程式撰寫比起來寫其實文章更難, 程式寫錯了
+產生 bug 引起當機, 重新開機就好, 文章用字表達錯了, 引起不必要的誤會, 麻煩就大了
+所以文章寫的好, 程式自然寫的也不差, 但是開 Word 寫文件, 又要開 IDE 寫程式真的
+很麻煩, 現在只要使用 &lt;a href=&quot;http://www.sublimetext.com&quot;&gt;Sublime Text&lt;/a&gt; 配合 &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; 就可以
+簡單的同時完成兩件事情&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d2o0t5hpnwv4c1.cloudfront.net/1140_st2plugins/codeintel.png&quot; alt=&quot;sublime&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;section-2&quot;&gt;如何發佈一個新的文章&lt;/h1&gt;
 
 &lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
@@ -49,19 +59,12 @@
     
       <item>
         <title>Markdown 語法</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <description>&lt;h1 id=&quot;html-&quot;&gt;一個比 HTML 更簡單的語法&lt;/h1&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;為什麼 Word 排版出來總是一直失控 !? 難道不能更簡單的方法嗎? 如果您心中一直有這個疑問.
+如果排版可以跟寫程式一樣精確就好了, 如果您每次用滑鼠排版的時候都一直有這個想法.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].&lt;/p&gt;
+&lt;p&gt;那麼 &lt;a href=&quot;http://guides.github.com/features/mastering-markdown&quot;&gt;Markdown&lt;/a&gt; 將可能是您終極的解決方案.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 12 Oct 2014 05:20:18 +0800</pubDate>
