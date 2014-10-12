@@ -12,3 +12,4 @@ github_username:  stanwu
 # Build settings
 markdown: kramdown
 
+keep_files: ["downloads", "assets"]
